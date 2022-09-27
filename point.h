@@ -1,5 +1,6 @@
 // point.h
 // ENSF 480 - Lab 2 - Exercise B
+// Authors: John Delsing and Dyson Davis
 
 #ifndef POINT_H
 #define POINT_H
