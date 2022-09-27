@@ -1,3 +1,6 @@
+// square.cpp
+// ENSF 480 - Lab 2 - Exercise B
+// Authors: John Delsing and Dyson Davis
 
 #include "square.h"
 #include <iostream>
