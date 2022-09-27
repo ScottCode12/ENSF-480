@@ -1,4 +1,6 @@
-
+// shape.h
+// ENSF 480 - Lab 2 - Exercise B
+// Authors: John Delsing and Dyson Davis
 
 #ifndef SHAPE_H
 #define SHAPE_H
