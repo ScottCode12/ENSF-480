@@ -1,3 +1,6 @@
+// rectangle.cpp
+// ENSF 480 - Lab 2 - Exercise B
+// Authors: John Delsing and Dyson Davis
 
 #include "rectangle.h"
 #include <iostream>
