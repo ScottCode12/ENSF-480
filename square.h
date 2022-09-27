@@ -1,4 +1,6 @@
-
+// square.h
+// ENSF 480 - Lab 2 - Exercise B
+// Authors: John Delsing and Dyson Davis
 
 #ifndef SQUARE_H
 #define SQUARE_H
