@@ -7,7 +7,7 @@
 #include <cmath>
 using namespace std;
 
-CurveCut::CurveCut(): Rectangle(double a, double b, double sideA, double sideB, char* name), Shape(a, b, name), Circle(a, b, r, name){
+CurveCut::CurveCut(double a, double b, double sideA, double sideB, char* name): Rectangle(a, b, sideA, sideB, name), Shape(a, b, name), Circle(a, b, r, name){
     if(r > sideA && r > sideB){
         exit(1);
     }
